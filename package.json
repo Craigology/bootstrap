@@ -56,6 +56,7 @@
     "grunt-jscs": "~1.5.0",
     "grunt-saucelabs": "~8.6.0",
     "grunt-sed": "~0.1.1",
+    "gulp-less": "^3.0.2",
     "load-grunt-tasks": "~3.1.0",
     "markdown-it": "^4.0.1",
     "npm-shrinkwrap": "^200.1.0",
@@ -82,6 +83,14 @@
         "exports": "$"
       }
     },
-    "files": ["css", "fonts", "js"]
+    "files": [
+      "css",
+      "fonts",
+      "js"
+    ]
+  },
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "less": "^2.4.0"
   }
 }
