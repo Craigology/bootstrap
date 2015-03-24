@@ -21,14 +21,14 @@
   "main": "./dist/js/npm",
   "repository": {
     "type": "git",
-    "url": "https://github.com/twbs/bootstrap.git"
+    "url": "https://github.com/craigology/bootstrap.git"
   },
   "bugs": {
-    "url": "https://github.com/twbs/bootstrap/issues"
+    "url": "https://github.com/craigology/bootstrap/issues"
   },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/twbs/bootstrap/blob/master/LICENSE"
+    "url": "https://github.com/craigology/bootstrap/blob/master/LICENSE"
   },
   "devDependencies": {
     "btoa": "~1.1.2",
